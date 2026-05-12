@@ -594,7 +594,29 @@ DOMAIN-SUFFIX,gpustack.ai
 
 # VoyageAI
 DOMAIN-SUFFIX,voyageai.com
+# > DeepSeek
+DOMAIN-SUFFIX,deepseek.com
 
+# > CodeGPT
+DOMAIN-SUFFIX,codegpt.co
+
+# > Flowith
+DOMAIN-SUFFIX,flowith.io
+
+# > Luma AI
+DOMAIN-SUFFIX,lumalabs.ai
+
+# > Manus AI
+DOMAIN-SUFFIX,manus.im
+
+# > Supermaven
+DOMAIN-SUFFIX,supermaven.com
+
+# > Augment Code
+DOMAIN-SUFFIX,augmentcode.com
+
+# > nvidia
+DOMAIN-SUFFIX, nvidia.com
 # others
 DOMAIN-SUFFIX,workos.com
 DOMAIN-SUFFIX,ai.com
