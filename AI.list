@@ -618,6 +618,7 @@ DOMAIN-SUFFIX,augmentcode.com
 # > nvidia
 DOMAIN-SUFFIX, nvidia.com
 # others
+DOMAIN-SUFFIX,anyrouter.top
 DOMAIN-SUFFIX,workos.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,you.com
