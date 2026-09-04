@@ -271,11 +271,8 @@ DOMAIN-SUFFIX,githubcopilot.com
 # > azure
 DOMAIN-SUFFIX,cognitiveservices.azure.com
 DOMAIN-SUFFIX,api.cognitive.microsoft.us
-DOMAIN-SUFFIX,api.cognitive.azure.cn
 DOMAIN-SUFFIX,cognitiveservices.azure.us
-DOMAIN-SUFFIX,cognitiveservices.azure.cn
 DOMAIN-SUFFIX,stt.speech.azure.us
-DOMAIN-SUFFIX,stt.speech.azure.cn
 DOMAIN,portal.customtranslator.azure.us
 # > Azure Machine Learning (AML Global)
 DOMAIN-SUFFIX,inference.ml.azure.com
