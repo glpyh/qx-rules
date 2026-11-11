@@ -1,9 +1,8 @@
-# Brawl Stars 国际版 - Supercell
+# Supercell / Brawl Stars
 DOMAIN-SUFFIX, supercell.com
-DOMAIN-SUFFIX, brawlstartsgame.com
-DOMAIN-SUFFIX, brawlstartsgame
-DOMAIN-SUFFIX, supercell
-# Photon 实时引擎（Supercell 用）
-DOMAIN-SUFFIX, exitgames.com
+DOMAIN-SUFFIX, supercell.net
+DOMAIN-SUFFIX, brawlstars.com
+DOMAIN-SUFFIX, brawlstarsgame.com
 DOMAIN-SUFFIX, exitgames.com
 DOMAIN-SUFFIX, photonengine.com
+
